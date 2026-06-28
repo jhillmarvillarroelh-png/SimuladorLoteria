@@ -19,7 +19,6 @@ namespace SimuladorLoteria
             {
                 Application.Run(new Form1(loginForm.NombreUsuario));
             }
-
         }
     }
 }
